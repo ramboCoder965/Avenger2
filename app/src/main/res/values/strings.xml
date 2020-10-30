@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Avenger</string>
+    <string name="choice1a">Feint a punch and then use the Leaping Tiger Kick?</string>
+    <string name="choice1b">Pretend to grapple but instead use the Cobra Strike jab</string>
+</resources>
